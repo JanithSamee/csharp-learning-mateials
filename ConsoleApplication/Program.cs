@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApplication1
+namespace ConsoleApplication
 {
     internal class Program
     {
@@ -8,7 +8,8 @@ namespace ConsoleApplication1
         {
             // Console.WriteLine("Hello World! ");
             // Variables.main();
-            TypeCasting.main();
+            // TypeCasting.main();
+            ControlStructure.main();
         }
     }
 }
